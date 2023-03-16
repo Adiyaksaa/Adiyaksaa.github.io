@@ -213,6 +213,15 @@ h6 {
   left: 0;
 }
 
+.cover{
+  width: auto;
+  height: 10rem;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
